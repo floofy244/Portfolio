@@ -6,6 +6,7 @@ html, body {
 	padding: 0;
 	height:100%;
 	width: 100%;
+	overflow-x: hidden;
 }
 
 h2 {
@@ -163,7 +164,7 @@ nav:hover ul {
 }
 
 .one-third-port:hover {
-	transform: scale(1.2);
+	transform: scale(1.1);
 }
 
 .contact p{
